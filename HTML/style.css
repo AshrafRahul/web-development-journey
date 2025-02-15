@@ -15,3 +15,20 @@ table, tr, td, th {
     border-collapse: collapse;
     padding: 10px;
 }
+
+h1, strong {
+    border: 2px solid tomato;
+}
+
+div{
+    background: tomato;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+.two{
+    background-color: aqua;
+}
+
+#three{
+    background-color: green;
+}
