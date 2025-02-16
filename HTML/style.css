@@ -32,3 +32,7 @@ div{
 #three{
     background-color: green;
 }
+
+label{
+    display: inline-block;
+}
